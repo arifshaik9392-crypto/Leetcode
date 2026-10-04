@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/0319-bulb-switcher) |
+| [1154-day-of-the-year](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/1154-day-of-the-year) |
 | [3870-count-commas-in-range](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## String
+|  |
+| ------- |
+| [1154-day-of-the-year](https://github.com/arifshaik9392-crypto/Leetcode/tree/master/1154-day-of-the-year) |
 <!---LeetCode Topics End-->
